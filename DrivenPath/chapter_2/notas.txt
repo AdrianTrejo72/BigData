@@ -1,0 +1,33 @@
+Clase 3 - Jueves batch processing
+
+que hay dentro de un batch
+
+1 datos crudos
+2 transformacion de datos, duplicados, null, empty
+3 los datos se dividen en batches: intervales segun indices, peso o cantidad de archivos
+4 procesamiento con logica y algoritmo
+5 definicion del pipeline
+6 agregacion de los batches, unificados para creacion de reportes, visualizacion
+7 Resultado final del batch, donde ya se tiene el archivos
+
+datos estructurados, analisis, algoritmos para revisar datos, conocer los datos y al userCase
+
+Reglas para normalizar datos, estandarizarlos, 3N 
+
+Cuando trabajamos con un programin lenguage, siempre se menciona un Framework
+el Framework permite normalizar procesos y estandares de programacion y desarrollo
+-Desarrollo web
+-mobile
+-DataScience
+
+Para DataScience:
+    Pytorch
+    ApacheSpark
+Para Big Data:
+
+
+
+Nuestra base de datos en Postgres es nuestra BronzeLayer
+    Haremos un query para identificar valores Nulos
+el punto final de la zonaRode...StaginZone, Silver_layer
+    Analisis, normalizacion, ajuste de datos y valores
